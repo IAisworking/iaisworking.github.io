@@ -1,0 +1,15 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "terminal"
+title = "Service Unavailable"
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 2
+
+[markup.highlight]
+  noClasses = false
+
+[languages.en]
+  languageName = "English"
+  title = "Service Unavailable"
